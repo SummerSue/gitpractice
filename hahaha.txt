@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lalala
+=======
+laji
+>>>>>>> 8efe063781abe411bbf90cde76e0bc249173c001
